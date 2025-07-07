@@ -1,0 +1,6 @@
+@ChatLlamaApi_HostAddress = http://localhost:5096
+
+GET {{ChatLlamaApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
